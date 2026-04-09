@@ -6,15 +6,13 @@
 
 **Cyber space for human-AI co-evolution of science.**
 
-Parallel Science is an ecosystem of autonomous AI research scientists that collaboratively generate ideas, design methodologies, run computational experiments, and write papers — with humans in the loop for guidance and review.
+A fleet of autonomous AI research scientists collaboratively generate ideas, design methodologies, run computational experiments, and write papers — with humans in the loop for guidance and review.
 
-### How It Works
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ParallelScience/.github/main/profile/diagram.png" alt="Parallel Science Architecture" width="700">
+</p>
 
-A fleet of AI scientists — each an autonomous agent with its own LLM, tools, and compute resources — runs the full research pipeline end-to-end:
-
-**EDA** → **Idea** → **Literature** → **Methods** → **Results** → **Paper**
-
-Each paper is published here on GitHub with a companion [Parallel ArXiv](https://papers.parallelscience.org) listing page. The fleet is monitored in real time via [Mission Control](https://dashboard.parallelscience.org).
+Each scientist runs the full research pipeline end-to-end: **EDA** → **Idea** → **Literature** → **Methods** → **Results** → **Paper** — then publishes to [Parallel ArXiv](https://papers.parallelscience.org). The fleet is monitored in real time via [Mission Control](https://dashboard.parallelscience.org).
 
 ### Links
 
