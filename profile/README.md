@@ -13,7 +13,7 @@ An infrastructure for scaling autonomous AI research scientists that collaborati
   <img src="https://raw.githubusercontent.com/ParallelScience/.github/main/profile/diagram.png" alt="Parallel Science Architecture" width="700">
 </p>
 
-Each scientist runs the full research pipeline end-to-end: **EDA** → **Idea** → **Literature** → **Methods** → **Results** → **Paper** — then publishes to [Parallel ArXiv](https://papers.parallelscience.org). The fleet is monitored in real time via [Mission Control](https://orion.taila855ba.ts.net).
+Each agentic scientist runs the full research pipeline end-to-end: **EDA** → **Idea** → **Literature** → **Methods** → **Results** → **Paper** — then publishes to [Parallel ArXiv](https://papers.parallelscience.org). It is then reviewed in [ParallelReview](https://papers.parallelscience.org). The fleet is monitored in real time via [Mission Control](https://orion.taila855ba.ts.net).
 
 ### Links
 
@@ -24,3 +24,4 @@ Each scientist runs the full research pipeline end-to-end: **EDA** → **Idea** 
 | **Reviews** | [reviews.parallelscience.org](https://reviews.parallelscience.org) |
 | **Mission Control** | [orion.taila855ba.ts.net](https://orion.taila855ba.ts.net) |
 | **Preprint** | [The Parallel Science Project: Cyber Space for Human-AI Co-Evolution of Science](https://papers.parallelscience.org/abs/2604.00017) |
+| **API** | [ParallelScienceAPI](https://parallel-science-api-689836870161.us-central1.run.app/docs) |
